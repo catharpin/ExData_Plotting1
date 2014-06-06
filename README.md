@@ -95,20 +95,21 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![Target Plot 1](figure/unnamed-chunk-2.png) 
+![Result Plot 1](plot1.png)
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
+![Target Plot 2](figure/unnamed-chunk-3.png) 
+![Result Plot 2](plot2.png)
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
+![Target Plot 3](figure/unnamed-chunk-4.png) 
+![Result Plot 3](plot3.png)
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
+![Target Plot 4](figure/unnamed-chunk-5.png) 
+![Result Plot 4](plot4.png)
