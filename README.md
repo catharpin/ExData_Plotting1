@@ -94,22 +94,33 @@ Each plot is followed by its reproduction.
 
 ### Plot 1
 
-
+#### Original
 ![Target Plot 1](figure/unnamed-chunk-2.png) 
+
+#### Reproduction
 ![Result Plot 1](plot1.png)
 
 
 ### Plot 2
 
+#### Original
 ![Target Plot 2](figure/unnamed-chunk-3.png) 
+
+#### Reproduction
 ![Result Plot 2](plot2.png)
 
 ### Plot 3
 
+### Original
 ![Target Plot 3](figure/unnamed-chunk-4.png) 
+
+#### Reproduction
 ![Result Plot 3](plot3.png)
 
 ### Plot 4
 
+#### Original
 ![Target Plot 4](figure/unnamed-chunk-5.png) 
+
+#### Reproduction
 ![Result Plot 4](plot4.png)
